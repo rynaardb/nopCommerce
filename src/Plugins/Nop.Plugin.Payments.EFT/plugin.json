@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "EFT Payment",
+  "SystemName": "Payments.EFT",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Rynaard Burger",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.EFT.dll",
+  "Description": "This plugin enables EFT payments"
+}
